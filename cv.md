@@ -13,3 +13,22 @@
 ## Skills:
 * Basic Pascal;
 * Basic C#;
+
+## Code Example:
+```javacript
+function disemvowel(str) {
+  const vowels = ['a', 'e', 'i', 'o', 'u','A','E','I','O','U'];
+  return str
+    split('')
+    filter(char => !vowels.includes(char))
+    join('');
+}
+```
+
+## Expirience 
+
+__University__: Volgograd State University
+
+## English: 
+
+* A1(I learn English from films and TV series).
